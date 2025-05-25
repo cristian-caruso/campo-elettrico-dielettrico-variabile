@@ -56,3 +56,10 @@ Cristian Caruso
 ## Ringraziamenti e collaborazioni
 
 Questo progetto è stato svolto con il supporto di un mio professore, che ringrazio per la disponibilità e i suggerimenti forniti.
+
+## Licenza
+
+Questo software è rilasciato sotto licenza MIT.  
+Vedi il file [LICENSE](./LICENSE) per i dettagli.
+
+**Nota**: Se usi questo software, ti chiedo cortesemente di menzionare l’autore nel tuo sito o nella documentazione.
